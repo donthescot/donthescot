@@ -2,11 +2,6 @@
 - Hi, I’m @donthescot, or Don for short.
 - I’m interested in all sorts of tech, motorbikes, and being Dad to three girls and a Cavoodle.
 
-### My Work 👷
-- I'm a Senior Project Manager in APAC Expert Services working with amazingly talented people.
-- Our team enable customers to unleash the power of GitHub's platform and products.
-- Reach me on donthescot@github.com.
-
 ### Personal Projects 😄
 - Home automation is my thing.  I'm continuing to tinker and develop my setup on Home Assistant, recently adding AI into the mix.
 
